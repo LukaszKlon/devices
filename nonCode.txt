@@ -1,0 +1,1 @@
+I think removing outdated logs is a good option to free up databse. The application can also archive logs in storage, or we can consolidate all logs from one day into a single database record.

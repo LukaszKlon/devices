@@ -1,0 +1,3 @@
+If I had more time, I would add a cron job using Celery to simulate the device's location saving (currently, the location is returned randomly whenever requested).
+Additionally, I would switch the database to PostgreSQL and containerize the application using Docker.
+Writing unit tests is also a good practice, so I would make sure to implement tests if I had written unit tests from the start.
